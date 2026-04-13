@@ -1,22 +1,35 @@
 Project: Task Manager Web App (MERN Stack)
 
 
-✨ Features
-JWT authentication (Login/Register)
-Create, Read, Update, Delete tasks
-Filter tasks (All/Active/Completed)
-Responsive modern UI
-Real-time task tracking
-
-
 🛠️ Tech Stack
-Frontend: React.js, Axios, CSS3
-Backend: Node.js, Express.js, JWT, Bcrypt
-Database: MongoDB, Mongoose
+Frontend:
 
-📚 Key Learnings
-Full-stack integration (React + Node.js + MongoDB)
-JWT authentication & password encryption
-REST API development
-State management with React hooks
-Git & GitHub workflow
+React.js – Component-based UI development
+
+Axios – HTTP client for API requests
+
+CSS3 – Custom styling with animations and responsive design
+
+Backend:
+
+Node.js – JavaScript runtime environment
+
+Express.js – REST API framework
+
+JWT – JSON Web Token for secure authentication
+
+Bcrypt.js – Password hashing and encryption
+
+Database:
+
+MongoDB – NoSQL database for data storage
+
+Mongoose – ODM for database modeling and validation
+
+Development Tools:
+
+Git & GitHub – Version control and repository hosting
+
+VS Code – Code editor
+
+Postman – API testing
