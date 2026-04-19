@@ -1,6 +1,5 @@
 Project: Task Manager Web App (MERN Stack)
 
-
 🛠️ Tech Stack
 Frontend:
 
